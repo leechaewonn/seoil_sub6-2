@@ -2,8 +2,8 @@
 
 @font-face {
     font-family: 'Floane';
-    src: url('../font/Floane-Bold.woff') format('woff');
-    font-weight: normal;
+    src: url('../font/Floane-Regular.otf') format('otf');
+    font-weight: lighter;
     font-style: normal;
 }
 
